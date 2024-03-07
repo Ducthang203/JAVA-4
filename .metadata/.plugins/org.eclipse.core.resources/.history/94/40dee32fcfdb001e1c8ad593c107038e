@@ -1,0 +1,7 @@
+
+public class HttpServletrRequest {
+	protected void doGet(HttpServletrRequest red,HttpServletResponse resp)
+	throw ServletException,IOException{
+		
+	}
+}
